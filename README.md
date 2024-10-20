@@ -16,7 +16,7 @@ Here are some notable projects that showcase my skills:
   - **Front-end and back-end development** with HTML, CSS, JavaScript, React and Nest.js.
 
 - **42 Projects**:
-  - `minishell`, `mini_ray_tracing`, `libft`, `ft_printf`, `minitalk`, and more – Developed in **C** as part of the 42 curriculum.
+  - `minishell`, `mini_ray_tracing`, `irc`, `libft`, `ft_printf`, `minitalk`, and more – Developed in **C** as part of the 42 curriculum.
 
 ## 🚀 My GitHub Stats
 ![Eprei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eprei&show_icons=true&theme=radical)
