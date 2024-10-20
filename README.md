@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🌍👨‍💻
 
-I’m **eprei**, a passionate **developer** and student at **42 Lausanne**. My interests include microservice architecture, web development, and scalable systems. I’m actively expanding my knowledge in cloud environments.
+I’m **Emiliano**, a passionate **developer** and student at **42 Lausanne**. My interests include microservice architecture, web development, and scalable systems. I’m actively expanding my knowledge in cloud environments.
 
 ## 🧑‍💻 Current Focus
 - **Cloud-Based Applications**.
