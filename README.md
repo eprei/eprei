@@ -3,8 +3,7 @@
 I’m **eprei**, a passionate **developer** and student at **42 Lausanne**. My interests include microservice architecture, web development, and scalable systems. I’m actively expanding my knowledge in cloud environments.
 
 ## 🧑‍💻 Current Focus
-- **Cloud-Native Microservices** using **Java** and **Spring Boot**.
-- Building with **AWS** services.
+- **Cloud-Based Applications**.
 - Expanding my experience in **Docker**, **Kubernetes**, and automation tools like **Ansible**.
 
 ## 📚 Projects
