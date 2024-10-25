@@ -22,19 +22,21 @@ Here are some notable projects that showcase my skills:
 
 <div>
   <a href="https://github-readme-stats.vercel.app">
-        <img width="50%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=eprei&show_icons=true&theme=prussian"/>
-    </a>
-</div>
+        <img width="60%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=eprei&show_icons=true&theme=prussian"/>
+  </a>
 <div>
+
+</div>
   <a href="https://github-readme-stats.vercel.app">
         <img width="30%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eprei&theme=prussian"/>
-    </a>
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+      <img width="29.4%" alt="Streak Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eprei&theme=prussian"/>
+  </a>  
 </div>
+
 <div>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="30%" alt="Streak Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eprei&theme=prussian"/>
-    </a>  
-</div>
-<div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=eprei&theme=prussian" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img width="60%"src="https://github-readme-streak-stats.herokuapp.com?user=eprei&theme=prussian" alt="GitHub Streak" />
+  </a>
 </div>
