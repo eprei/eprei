@@ -35,3 +35,6 @@ Here are some notable projects that showcase my skills:
         <img width="30%" alt="Streak Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eprei&theme=prussian"/>
     </a>  
 </div>
+<div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=eprei&theme=prussian" alt="GitHub Streak" /></a>
+</div>
