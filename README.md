@@ -19,9 +19,22 @@ Here are some notable projects that showcase my skills:
   - `minishell`, `mini_ray_tracing`, `irc`, `libft`, `ft_printf`, `minitalk`, and more – Developed in **C** as part of the 42 curriculum.
 
 ## 🚀 My GitHub Stats
-![Eprei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eprei&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eprei&layout=compact&theme=radical)
+<div>
+  <a href="https://github-readme-stats.vercel.app">
+        <img width="50%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=eprei&show_icons=true&theme=prussian"/>
+    </a>
+</div>
+<div>
+  <a href="https://github-readme-stats.vercel.app">
+        <img width="30%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eprei&theme=prussian"/>
+    </a>
+</div>
+<div>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="30%" alt="Streak Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eprei&theme=prussian"/>
+    </a>  
+</div>
 
 ## 💬 Let's Collaborate!
 I'm always open to discussions and collaborations. Feel free to explore my repositories or reach out to me for exciting projects!
