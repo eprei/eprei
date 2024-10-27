@@ -1,42 +1,87 @@
-# Hello there! 👋
+# Hello! 👋 I'm Emiliano
 
-I’m **Emiliano**, a passionate **developer** and student at **42 Lausanne**. My interests include microservice architecture, web development, and scalable systems. I’m actively expanding my knowledge in cloud environments.
+A software developer passionate about building scalable and robust solutions, with expertise in systems development and modern architectures. Currently studying at 42 Lausanne, focusing on DevOps practices and cloud infrastructure, with a growing interest in cybersecurity. I enjoy tackling complex challenges and implementing secure, efficient solutions.
 
-## 🧑‍💻 Current Focus
-- **Cloud-Based Applications**.
-- Expanding my experience in **Docker**, **Kubernetes**, and automation tools like **Ansible**.
+## 🛠️ Tech Stack
 
-## 📚 Projects
-Here are some notable projects that showcase my skills:
-- **Java Projects**:
-  - `Microservices Architecture` – Enterprise-grade microservice applications.
-  - `Spring Boot Web Services` – RESTful APIs for scalable systems.
+### Languages
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-- **Web Development**:
-  - **Front-end and back-end development** with HTML, CSS, JavaScript, React and Nest.js.
+### Frameworks & Technologies
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-- **42 Projects**:
-  - `minishell`, `mini_ray_tracing`, `irc`, `libft`, `ft_printf`, `minitalk`, and more – Developed in **C** as part of the 42 curriculum.
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 🚀 My GitHub Stats
+## 🚀 Featured Projects
 
-<div>
-  <a href="https://github-readme-stats.vercel.app">
-        <img width="60%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=eprei&show_icons=true&theme=prussian"/>
-  </a>
-<div>
+### Enterprise Scale Applications
+- **[ft_transcendence](https://github.com/eprei/42_ft_transcendence)** - Full-stack multiplayer Pong game
+  - `React` `NestJS` `PostgreSQL` `WebSocket` `Docker` `OAuth2.0`
+  - Real-time gameplay, chat system, user authentication, and social features
+  - Containerized microservices architecture
 
+### System Programming
+- **[ft_turing](https://github.com/eprei/42_ft_turing)** - Turing machine simulator in Scala
+  - Functional programming implementation
+  - JSON-based machine configuration
+  - Comprehensive error handling
+
+- **[minishell](https://github.com/eprei/42_minishell)** - Unix shell implementation
+  - Process management
+  - Signal handling
+  - Pipeline implementation
+  - Built-in command execution
+
+### Network Programming
+- **[ft_irc](https://github.com/eprei/42_ft_irc)** - IRC server implementation
+  - TCP/IP socket programming
+  - Multi-client support
+  - Channel management
+  - User authentication
+
+### Infrastructure & DevOps
+- **[Inception](https://github.com/eprei/42_inception)** - Docker-based service orchestration
+  - NGINX, WordPress, MariaDB containerization
+  - Custom Docker configurations
+  - Service orchestration
+  - SSL/TLS implementation
+
+- **[Inception of Things](https://github.com/eprei/42_Inception-of-Things)** - K3s/K3d deployment
+  - Kubernetes cluster setup
+  - GitOps with Argo CD
+  - Infrastructure as Code
+  - Automated deployment pipelines
+
+### Graphics Programming
+- **[miniRT](https://github.com/eprei/42_minirt)** - Ray tracing engine
+  - 3D rendering implementation
+  - Vector mathematics
+  - Light physics calculations
+  - Object intersection algorithms
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eprei&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eprei&layout=compact&langs_count=7&theme=prussian"/>
 </div>
-  <a href="https://github-readme-stats.vercel.app">
-        <img width="30%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eprei&theme=prussian"/>
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-      <img width="29.4%" alt="Streak Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eprei&theme=prussian"/>
-  </a>  
-</div>
 
-<div>
-  <a href="https://git.io/streak-stats">
-    <img width="60%"src="https://github-readme-streak-stats.herokuapp.com?user=eprei&theme=prussian" alt="GitHub Streak" />
-  </a>
-</div>
+## 🎯 Current Focus
+- Microservice Architecture
+- Cloud-Native Development
+- Infrastructure Automation
+- Distributed Systems
