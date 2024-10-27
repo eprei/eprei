@@ -1,4 +1,4 @@
-# Hello there! 👋 Welcome to my GitHub.
+# Hello there! 👋
 
 I’m **Emiliano**, a passionate **developer** and student at **42 Lausanne**. My interests include microservice architecture, web development, and scalable systems. I’m actively expanding my knowledge in cloud environments.
 
