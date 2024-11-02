@@ -54,6 +54,14 @@ A software developer passionate about building scalable and robust solutions, wi
   - Channel management
   - User authentication
 
+ ### Network Security & Cybersecurity
+- **[ft_malcolm](https://github.com/eprei/ft_malcolm)** - ARP spoofing implementation 🚧
+  - Implementation of basic Man-in-the-Middle attack through ARP poisoning
+  - Low-level network programming in C
+  - Network protocol manipulation and packet crafting
+  - Input validation for IP and MAC addresses
+  - Focus on network security concepts and vulnerabilities
+
 ### Infrastructure & DevOps
 - **[Inception](https://github.com/eprei/42_inception)** - Docker-based service orchestration
   - NGINX, WordPress, MariaDB containerization
