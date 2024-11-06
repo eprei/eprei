@@ -63,6 +63,13 @@ A software developer passionate about building scalable and robust solutions, wi
   - Focus on network security concepts and vulnerabilities
 
 ### Infrastructure & DevOps
+- **[Cloud-1](https://github.com/eprei/cloud-1)** - Automated cloud infrastructure deployment 🚧
+  - Ansible automation for WordPress infrastructure
+  - Multi-container Docker architecture
+  - Infrastructure as Code principles
+  - Cloud platform deployment
+  - TLS/SSL security implementation
+ 
 - **[Inception](https://github.com/eprei/42_inception)** - Docker-based service orchestration
   - NGINX, WordPress, MariaDB containerization
   - Custom Docker configurations
